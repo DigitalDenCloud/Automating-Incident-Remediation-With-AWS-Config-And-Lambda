@@ -1,18 +1,16 @@
 <br />
 
 <p align="center">
-  <a href="img/">
-    <img src="Architecture.png" alt="architecture">
-  </a>
+![Architecture](/Architecture.png)
   <h1 align="center">Automating Incident Remediation with AWS Config and Lambda</h1>
   <p align="center">
-    "Strengthening AWS Resource Security: Using AWS Config and Lambda for Proactive Monitoring and Automated Remediation of Security Concerns."
     <br />
    More detail & video demonstration found on my blog:
     <br />
     https://blog.digitalden.cloud
   </p>
 </p>
+
 
 ### Project date
 ------------------
