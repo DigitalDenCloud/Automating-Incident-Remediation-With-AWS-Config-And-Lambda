@@ -1,7 +1,7 @@
 <br />
 
 <p align="center">
-![Architecture](/Architecture.png)
+![Architecture](Architecture.png)
   <h1 align="center">Automating Incident Remediation with AWS Config and Lambda</h1>
   <p align="center">
     <br />
