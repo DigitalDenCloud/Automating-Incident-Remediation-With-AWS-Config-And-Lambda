@@ -4,9 +4,11 @@
   <h1 align="center">Automating Incident Remediation with AWS Config and Lambda</h1>
   <p align="center">
     <br />
-   Detailed instructions & video demonstration found on my blog:
-    
-[blog.digitalden.cloud] (https://blog.digitalden.cloud/automating-incident-remediation-with-aws-config-and-lambda-9efc077b72e9)
+   Detailed Instructions & video demonstration found on my blog:
+    <br />
+    https://blog.digitalden.cloud/automating-incident-remediation-with-aws-config-and-lambda-9efc077b72e9
+  </p>
+</p>
 
 
 ### Project date
