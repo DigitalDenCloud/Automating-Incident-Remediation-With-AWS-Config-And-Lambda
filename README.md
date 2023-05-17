@@ -6,7 +6,7 @@
     <br />
    Detailed instructions & video demonstration found on my blog:
     
-    [blog.digitalden.cloud] (https://blog.digitalden.cloud/automating-incident-remediation-with-aws-config-and-lambda-9efc077b72e9)
+[blog.digitalden.cloud] (https://blog.digitalden.cloud/automating-incident-remediation-with-aws-config-and-lambda-9efc077b72e9)
 
 
 ### Project date
