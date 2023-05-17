@@ -5,11 +5,13 @@
   <p align="center">
     <br />
     <br />
-   
   </p>
 </p>
-<p align="center">
-Detailed Instructions found on my blog: [blog.digitalden.cloud](https://blog.digitalden.cloud/automating-incident-remediation-with-aws-config-and-lambda-9efc077b72e9)
+
+### More Info
+------------------
+- [blog.digitalden.cloud](https://blog.digitalden.cloud/automating-incident-remediation-with-aws-config-and-lambda-9efc077b72e9)
+- [Demo](https://www.youtube.com/channel/UCHoxUz0IfdhOieSXox_mwSw)
 
 ### Project date
 ------------------
