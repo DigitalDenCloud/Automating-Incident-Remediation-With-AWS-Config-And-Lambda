@@ -1,21 +1,7 @@
-#
-# This file made available under CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/legalcode)
-#
-# awsconfig_lambda_security_group.py
-# Trigger Type: Change Triggered
-#
-# Author: jslevine@
-# Date: 2016-09-05
-#
-#
 # This file contains an AWS Lambda handler which responds to AWS Config triggers in AWS EC2 security groups.
 # The Lambda function examines changes in the security group ingress permissions to see if they differ from
 # the required permissions as specificed in the REQUIRED_PERMISSIONS variable below.   If so, the Lambda
 # function adds or removes ingress ports as needed.  Egress rules are not checked.
-#
-# NOTES:
-#
-# This code is only intended for instructional purposes and should not be used for any other use.
 
 import boto3
 import botocore
