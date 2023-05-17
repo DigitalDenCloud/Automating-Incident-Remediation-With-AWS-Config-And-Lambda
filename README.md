@@ -8,8 +8,8 @@
    
   </p>
 </p>
-
-Detailed Instructions found on my: [Blog](https://blog.digitalden.cloud/automating-incident-remediation-with-aws-config-and-lambda-9efc077b72e9)
+<p align="center">
+Detailed Instructions found on my blog: [blog.digitalden.cloud](https://blog.digitalden.cloud/automating-incident-remediation-with-aws-config-and-lambda-9efc077b72e9)
 
 ### Project date
 ------------------
