@@ -26,9 +26,9 @@
 
 ### Project Description
 -----------------
-Monitored Amazon EC2 security group settings in my AWS account. Defined which inbound ports should and shouldn't be open in a security group. Configured a solution to automatically remediate an incident where someone modified a security group's inbound rules and they no longer conform with the desired configuration.
+Used the AWS Config service to monitor changes to specific resources in my AWS account, such as Amazon EC2 security group settings. Defined which inbound ports should and shouldn't be open in a security group.
 
-Used the AWS Config service to monitor changes to specific resources in my AWS account. Used the service to identify changes that could be a security concern, such as a user modifying an Amazon EC2 security group. Integrated AWS Config with AWS Lambda to automatically remediate specific security incidents of concern.
+Used AWS Config to identify changes that could be a security concern, such as a user modifying an Amazon EC2 security group. Integrated AWS Config with AWS Lambda to automatically remediate specific security incidents of concern. For example, where someone modified a security group's inbound rules and they no longer conform with the desired configuration.
 
 ### Objectives
 -----------------
