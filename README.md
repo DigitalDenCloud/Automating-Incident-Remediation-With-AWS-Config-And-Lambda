@@ -4,6 +4,7 @@
   <h1 align="center">Automating Incident Remediation with AWS Config and Lambda</h1>
   <p align="center">
     <br />
+    Configure a solution to automatically remediate an incident where a security group's inbound rules no longer conforms with the desired configuration
   </p>
 </p>
 
