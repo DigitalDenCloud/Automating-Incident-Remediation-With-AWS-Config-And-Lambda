@@ -11,7 +11,7 @@
 ### More Information
 ------------------
 - [Blog](https://blog.digitalden.cloud/automating-incident-remediation-with-aws-config-and-lambda-9efc077b72e9)
-- [Demonstration](https://www.youtube.com/channel/UCHoxUz0IfdhOieSXox_mwSw)
+- [Lab](https://youtu.be/VgxpkKJrWpY)
 
 ### Project date
 ------------------
