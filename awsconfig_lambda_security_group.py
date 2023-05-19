@@ -1,3 +1,5 @@
+awsconfig_lambda_security_group.py
+
 # This file contains an AWS Lambda handler which responds to AWS Config triggers in AWS EC2 security groups.
 # The Lambda function examines changes in the security group ingress permissions to see if they differ from
 # the required permissions as specificed in the REQUIRED_PERMISSIONS variable below.   If so, the Lambda
