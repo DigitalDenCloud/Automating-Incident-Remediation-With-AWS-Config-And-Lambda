@@ -26,7 +26,7 @@
 
 ### Project Description
 -----------------
-Used AWS Config and AWS Lambda to monitor and automatically remediate security incidents related to EC2 security groups. By using the AWS Config service, I am able to track changes to the security group settings and identify potential security concerns.
+<h1 align="center">Used AWS Config and AWS Lambda to monitor and automatically remediate security incidents related to EC2 security groups. By using the AWS Config service, I am able to track changes to the security group settings and identify potential security concerns.</h1>
 
 **1. Utilized AWS Config:** I configured AWS Config to monitor changes to specific resources in my AWS account, specifically the EC2 security group settings. AWS Config tracks changes and maintains a configuration history for the resources.
 
